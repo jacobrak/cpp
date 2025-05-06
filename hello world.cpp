@@ -4,8 +4,7 @@ using namespace std;
 // I miss python 
 
 int main() {
-    char letter;
-    letter = 'a'*1.1;
-    cout << letter << endl;
+    double y  = 1.0 / 3.0;
+    cout << y << endl;
     return 0;
 }
